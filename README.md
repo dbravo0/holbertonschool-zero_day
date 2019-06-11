@@ -1,1 +1,1 @@
-My first commit
+Finished all projects from the 0 day!
