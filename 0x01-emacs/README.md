@@ -1,1 +1,1 @@
-Command for open a file using Emacs
+Content and answers about Emacs
